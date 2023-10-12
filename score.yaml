@@ -35,4 +35,4 @@ resources:
   db:  # We need a database to store data
     type: mysql
   userdb:
-  type: postgres
+    type: postgres
